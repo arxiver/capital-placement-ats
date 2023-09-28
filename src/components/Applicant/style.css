@@ -1,0 +1,98 @@
+.applicant-overview__name {
+  color: #000;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-bottom: 8px;
+}
+
+.applicant-overview__location {
+  color: #000;
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: 8px;
+
+  line-height: normal;
+}
+
+.applicant-overview__degree {
+  color: #000;
+  margin-bottom: 8px;
+
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+
+}
+
+.applicant-overview__rate {
+  color: #1D4ED8;
+  margin-bottom: 8px;
+
+  font-family: Poppins;
+  font-size: 8px;
+  font-style: normal;
+  display: inline-block;
+  margin-right: 8px;
+  font-weight: 400;
+  line-height: normal;
+
+}
+
+.applicant-overview__tag {
+  display: flex;
+  display: inline-block;
+  padding: 2px 10px;
+  margin-bottom: 8px;
+
+  justify-content: center;
+  margin-right: 8px;
+  color: #037092;
+  font-family: Poppins;
+  font-size: 8px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  align-items: center;
+  gap: 10px;
+  border-radius: 16px;
+  background: #F3FAFC;
+}
+
+.applicant-overview__content {
+  text-align: start;
+}
+
+
+.applicant-overview {
+  height: 143px;
+  width: auto;
+  align-items: center;
+  display: flex;
+}
+
+.applicant-overview__avatar {
+  height: 56px;
+  margin-left: 16px;
+  margin-right: 24px;
+  width: 56px;
+  color: #D0E1FF;
+  display: inline-block;
+  font-family: Poppins;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  display: flex;
+  padding: 12.5px 15px 13.5px 14px;
+  justify-content: center;
+  align-items: center;
+  line-height: normal;
+  border-radius: 100px;
+  background: #EDF4FF;
+}
